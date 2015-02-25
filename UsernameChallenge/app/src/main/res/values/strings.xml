@@ -7,4 +7,5 @@
     <string name="username">username:</string>
     <string name="password">password:</string>
     <string name="confirmation">confirmation:</string>
+    <string name="test">test</string>
 </resources>
