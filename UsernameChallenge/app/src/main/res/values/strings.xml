@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Username Challenge</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="submit">submit</string>
+    <string name="username">username:</string>
+    <string name="password">password:</string>
+    <string name="confirmation">confirmation:</string>
+</resources>

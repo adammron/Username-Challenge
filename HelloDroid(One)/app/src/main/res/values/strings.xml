@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Droid (One)</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_droid">Hello Droid!</string>
+    <string name="action_settings">Settings</string>
+</resources>
